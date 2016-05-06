@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pwt.PersonalWtTrackerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.25 sec - in com.pwt.PersonalWtTrackerApplicationTests
